@@ -1,6 +1,6 @@
 # Hello, I'm yogita 👋
 
-<img src= "https://i.pinimg.com/originals/2d/9f/5e/2d9f5e264be1c6cb813d434057851c7a.png"
+<img src= "https://i.pinimg.com/originals/2d/9f/5e/2d9f5e264be1c6cb813d434057851c7a.png" alt= "banner that saus yogita mishra- Data science , content creator and community organizer alongside a cartoon illustration of yogita">
 <!--
 **yogitamishra1/yogitamishra1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
