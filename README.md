@@ -4,6 +4,5 @@
 
 - ### 🔭 Actively looking for Data Science job
 - 🌱 I’m always learning ...
-- 👯 
 - 🤔 I’m looking for help with Data science and Analytics...
 - 💬 ##Skills :- Data Science, Data analytics, Python, SQL, EDA, NLP, Data visualization, Machine learning
